@@ -1,0 +1,6 @@
+@CRM.HealthCheck.Application_HostAddress = http://localhost:5169
+
+GET {{CRM.HealthCheck.Application_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

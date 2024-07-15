@@ -1,0 +1,12 @@
+C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.Core\bin\Debug\net8.0\CRM.HealthCheck.Core.deps.json
+C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.Core\bin\Debug\net8.0\CRM.HealthCheck.Core.dll
+C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.Core\bin\Debug\net8.0\CRM.HealthCheck.Core.pdb
+C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.Core\obj\Debug\net8.0\CRM.HealthCheck.Core.csproj.AssemblyReference.cache
+C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.Core\obj\Debug\net8.0\CRM.HealthCheck.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.Core\obj\Debug\net8.0\CRM.HealthCheck.Core.AssemblyInfoInputs.cache
+C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.Core\obj\Debug\net8.0\CRM.HealthCheck.Core.AssemblyInfo.cs
+C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.Core\obj\Debug\net8.0\CRM.HealthCheck.Core.csproj.CoreCompileInputs.cache
+C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.Core\obj\Debug\net8.0\CRM.HealthCheck.Core.dll
+C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.Core\obj\Debug\net8.0\refint\CRM.HealthCheck.Core.dll
+C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.Core\obj\Debug\net8.0\CRM.HealthCheck.Core.pdb
+C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.Core\obj\Debug\net8.0\ref\CRM.HealthCheck.Core.dll

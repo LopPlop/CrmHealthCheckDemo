@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CRM.HealthCheck.Application.props" />
+</Project>

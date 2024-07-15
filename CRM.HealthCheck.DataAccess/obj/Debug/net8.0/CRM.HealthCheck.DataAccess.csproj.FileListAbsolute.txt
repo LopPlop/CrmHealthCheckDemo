@@ -1,0 +1,17 @@
+C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.DataAccess\obj\Debug\net8.0\CRM.HealthCheck.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.DataAccess\obj\Debug\net8.0\CRM.HealthCheck.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.DataAccess\obj\Debug\net8.0\CRM.HealthCheck.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.DataAccess\obj\Debug\net8.0\CRM.HealthCheck.DataAccess.AssemblyInfo.cs
+C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.DataAccess\obj\Debug\net8.0\CRM.HealthCheck.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.DataAccess\bin\Debug\net8.0\CRM.HealthCheck.DataAccess.deps.json
+C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.DataAccess\bin\Debug\net8.0\CRM.HealthCheck.DataAccess.runtimeconfig.json
+C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.DataAccess\bin\Debug\net8.0\CRM.HealthCheck.DataAccess.dll
+C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.DataAccess\bin\Debug\net8.0\CRM.HealthCheck.DataAccess.pdb
+C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.DataAccess\bin\Debug\net8.0\CRM.HealthCheck.Core.dll
+C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.DataAccess\bin\Debug\net8.0\CRM.HealthCheck.Core.pdb
+C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.DataAccess\obj\Debug\net8.0\CRM.Heal.7A68FD4B.Up2Date
+C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.DataAccess\obj\Debug\net8.0\CRM.HealthCheck.DataAccess.dll
+C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.DataAccess\obj\Debug\net8.0\refint\CRM.HealthCheck.DataAccess.dll
+C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.DataAccess\obj\Debug\net8.0\CRM.HealthCheck.DataAccess.pdb
+C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.DataAccess\obj\Debug\net8.0\CRM.HealthCheck.DataAccess.genruntimeconfig.cache
+C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.DataAccess\obj\Debug\net8.0\ref\CRM.HealthCheck.DataAccess.dll

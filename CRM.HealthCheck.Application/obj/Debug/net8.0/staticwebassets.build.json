@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WPUW51Y3dY4NLzhwlKNk8WbWvh2xaaaT4Fgm1RYmG8c=",
+  "Source": "CRM.HealthCheck.Application",
+  "BasePath": "_content/CRM.HealthCheck.Application",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

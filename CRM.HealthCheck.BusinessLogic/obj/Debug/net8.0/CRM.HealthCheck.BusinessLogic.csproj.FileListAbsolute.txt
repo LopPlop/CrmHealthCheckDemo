@@ -1,0 +1,17 @@
+C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.BusinessLogic\bin\Debug\net8.0\CRM.HealthCheck.BusinessLogic.deps.json
+C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.BusinessLogic\bin\Debug\net8.0\CRM.HealthCheck.BusinessLogic.dll
+C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.BusinessLogic\bin\Debug\net8.0\CRM.HealthCheck.BusinessLogic.pdb
+C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.BusinessLogic\bin\Debug\net8.0\CRM.HealthCheck.Core.dll
+C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.BusinessLogic\bin\Debug\net8.0\CRM.HealthCheck.Core.pdb
+C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.BusinessLogic\obj\Debug\net8.0\CRM.HealthCheck.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.BusinessLogic\obj\Debug\net8.0\CRM.HealthCheck.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.BusinessLogic\obj\Debug\net8.0\CRM.HealthCheck.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.BusinessLogic\obj\Debug\net8.0\CRM.HealthCheck.BusinessLogic.AssemblyInfo.cs
+C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.BusinessLogic\obj\Debug\net8.0\CRM.HealthCheck.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.BusinessLogic\obj\Debug\net8.0\CRM.Heal.9538E012.Up2Date
+C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.BusinessLogic\obj\Debug\net8.0\CRM.HealthCheck.BusinessLogic.dll
+C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.BusinessLogic\obj\Debug\net8.0\refint\CRM.HealthCheck.BusinessLogic.dll
+C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.BusinessLogic\obj\Debug\net8.0\CRM.HealthCheck.BusinessLogic.pdb
+C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.BusinessLogic\obj\Debug\net8.0\ref\CRM.HealthCheck.BusinessLogic.dll
+C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.BusinessLogic\bin\Debug\net8.0\CRM.HealthCheck.BusinessLogic.runtimeconfig.json
+C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.BusinessLogic\obj\Debug\net8.0\CRM.HealthCheck.BusinessLogic.genruntimeconfig.cache

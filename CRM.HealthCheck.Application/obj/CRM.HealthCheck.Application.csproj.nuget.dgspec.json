@@ -1,0 +1,374 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Bruh\\source\\repos\\CRM.HealthCheck.Application\\CRM.HealthCheck.Application\\CRM.HealthCheck.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Bruh\\source\\repos\\CRM.HealthCheck.Application\\CRM.HealthCheck.Application\\CRM.HealthCheck.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bruh\\source\\repos\\CRM.HealthCheck.Application\\CRM.HealthCheck.Application\\CRM.HealthCheck.Application.csproj",
+        "projectName": "CRM.HealthCheck.Application",
+        "projectPath": "C:\\Users\\Bruh\\source\\repos\\CRM.HealthCheck.Application\\CRM.HealthCheck.Application\\CRM.HealthCheck.Application.csproj",
+        "packagesPath": "C:\\Users\\Bruh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bruh\\source\\repos\\CRM.HealthCheck.Application\\CRM.HealthCheck.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\SIP\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Bruh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Bruh\\source\\repos\\CRM.HealthCheck.Application\\CRM.HealthCheck.BusinessLogic\\CRM.HealthCheck.BusinessLogic.csproj": {
+                "projectPath": "C:\\Users\\Bruh\\source\\repos\\CRM.HealthCheck.Application\\CRM.HealthCheck.BusinessLogic\\CRM.HealthCheck.BusinessLogic.csproj"
+              },
+              "C:\\Users\\Bruh\\source\\repos\\CRM.HealthCheck.Application\\CRM.HealthCheck.DataAccess\\CRM.HealthCheck.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Bruh\\source\\repos\\CRM.HealthCheck.Application\\CRM.HealthCheck.DataAccess\\CRM.HealthCheck.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AspNetCore.HealthChecks.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "AspNetCore.HealthChecks.UI": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "AspNetCore.HealthChecks.UI.Client": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "AspNetCore.HealthChecks.UI.InMemory.Storage": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "AspNetCore.HealthChecks.Uris": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Azure.Identity": {
+              "target": "Package",
+              "version": "[1.12.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.Extensions.Diagnostics.HealthChecks": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Bruh\\source\\repos\\CRM.HealthCheck.Application\\CRM.HealthCheck.BusinessLogic\\CRM.HealthCheck.BusinessLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bruh\\source\\repos\\CRM.HealthCheck.Application\\CRM.HealthCheck.BusinessLogic\\CRM.HealthCheck.BusinessLogic.csproj",
+        "projectName": "CRM.HealthCheck.BusinessLogic",
+        "projectPath": "C:\\Users\\Bruh\\source\\repos\\CRM.HealthCheck.Application\\CRM.HealthCheck.BusinessLogic\\CRM.HealthCheck.BusinessLogic.csproj",
+        "packagesPath": "C:\\Users\\Bruh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bruh\\source\\repos\\CRM.HealthCheck.Application\\CRM.HealthCheck.BusinessLogic\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\SIP\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Bruh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Bruh\\source\\repos\\CRM.HealthCheck.Application\\CRM.HealthCheck.Core\\CRM.HealthCheck.Core.csproj": {
+                "projectPath": "C:\\Users\\Bruh\\source\\repos\\CRM.HealthCheck.Application\\CRM.HealthCheck.Core\\CRM.HealthCheck.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Bruh\\source\\repos\\CRM.HealthCheck.Application\\CRM.HealthCheck.Core\\CRM.HealthCheck.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bruh\\source\\repos\\CRM.HealthCheck.Application\\CRM.HealthCheck.Core\\CRM.HealthCheck.Core.csproj",
+        "projectName": "CRM.HealthCheck.Core",
+        "projectPath": "C:\\Users\\Bruh\\source\\repos\\CRM.HealthCheck.Application\\CRM.HealthCheck.Core\\CRM.HealthCheck.Core.csproj",
+        "packagesPath": "C:\\Users\\Bruh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bruh\\source\\repos\\CRM.HealthCheck.Application\\CRM.HealthCheck.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\SIP\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Bruh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Bruh\\source\\repos\\CRM.HealthCheck.Application\\CRM.HealthCheck.DataAccess\\CRM.HealthCheck.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bruh\\source\\repos\\CRM.HealthCheck.Application\\CRM.HealthCheck.DataAccess\\CRM.HealthCheck.DataAccess.csproj",
+        "projectName": "CRM.HealthCheck.DataAccess",
+        "projectPath": "C:\\Users\\Bruh\\source\\repos\\CRM.HealthCheck.Application\\CRM.HealthCheck.DataAccess\\CRM.HealthCheck.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Bruh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bruh\\source\\repos\\CRM.HealthCheck.Application\\CRM.HealthCheck.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\SIP\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Bruh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Bruh\\source\\repos\\CRM.HealthCheck.Application\\CRM.HealthCheck.Core\\CRM.HealthCheck.Core.csproj": {
+                "projectPath": "C:\\Users\\Bruh\\source\\repos\\CRM.HealthCheck.Application\\CRM.HealthCheck.Core\\CRM.HealthCheck.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
