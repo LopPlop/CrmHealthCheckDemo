@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CRM.HealthCheck.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+624faef500724aca00d41a2367bf2107b5e78e88")]
 [assembly: System.Reflection.AssemblyProductAttribute("CRM.HealthCheck.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CRM.HealthCheck.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -27,7 +27,7 @@ builder.Services.AddScoped<ILogService, LogService>();
 
 
 builder.Services.AddHealthChecks()
-    .AddSqlServer(ConnectionString, name: "SqlServerHeclthCheck")
+    .AddSqlServer(ConnectionString, name: "SqlServerHealthCheck")
     .AddCheck<CRMHealthCheck>(nameof(CRMHealthCheck))
     .AddDbContextCheck<CRMHealthCheckDbContext>();
 
