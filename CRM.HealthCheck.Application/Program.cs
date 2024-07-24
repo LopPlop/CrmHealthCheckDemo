@@ -24,6 +24,7 @@ builder.Services.AddDbContext<CRMHealthCheckDbContext>(
 
 builder.Services.AddScoped<ILogsRepository, LogsRepository>();
 builder.Services.AddScoped<ILogService, LogService>();
+builder.Services.AddTransient<ISendMailService, SendMailService>();
 
 
 builder.Services.AddHealthChecks()
