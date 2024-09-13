@@ -9,7 +9,6 @@ namespace CRM.HealthCheck.DataAccess
             : base(options)
         {
         }
-
         public DbSet<LogEntity> Logs {  get; set; }
     }
 }

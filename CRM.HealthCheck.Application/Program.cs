@@ -14,13 +14,22 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-var ConnectionString = builder.Configuration.GetConnectionString(nameof(CRMHealthCheckDbContext));
+var CRMConnectionString = builder.Configuration.GetConnectionString(nameof(CRMHealthCheckDbContext));
+var AvayaConnectionString = builder.Configuration.GetConnectionString(nameof(CRMHealthCheckDbContext));
 
 builder.Services.AddDbContext<CRMHealthCheckDbContext>(
     options =>
     {
-        options.UseSqlServer(ConnectionString);
+        options.UseSqlServer(CRMConnectionString);
     });
+
+builder.Services.AddDbContext<AvayaHealthCheckDbContext>(
+    options =>
+    {
+        options.UseSqlServer(AvayaConnectionString);
+    });
+
+
 
 builder.Services.AddScoped<ILogsRepository, LogsRepository>();
 builder.Services.AddScoped<ILogService, LogService>();
@@ -28,9 +37,11 @@ builder.Services.AddTransient<ISendMailService, SendMailService>();
 
 
 builder.Services.AddHealthChecks()
-    .AddSqlServer(ConnectionString, name: "SqlServerHealthCheck")
-    .AddCheck<CRMHealthCheck>(nameof(CRMHealthCheck))
-    .AddDbContextCheck<CRMHealthCheckDbContext>();
+        .AddDbContextCheck<CRMHealthCheckDbContext>()
+        .AddCheck<CRMHealthCheck>(nameof(CRMHealthCheck))
+        .AddCheck<AvayaHealthCheck>(nameof(AvayaHealthCheck))
+        .AddDbContextCheck<AvayaHealthCheckDbContext>();
+
 
 builder.Services
     .AddHealthChecksUI(setup =>

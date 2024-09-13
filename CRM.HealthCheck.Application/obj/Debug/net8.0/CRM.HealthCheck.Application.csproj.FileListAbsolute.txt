@@ -165,3 +165,7 @@ C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.Applicati
 C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.Application\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
 C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.Application\bin\Debug\net8.0\HealthChecks.Uris.dll
 C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.Application\obj\Debug\net8.0\CRM.HealthCheck.Application.sourcelink.json
+C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.Application\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.Application\bin\Debug\net8.0\MailKit.dll
+C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.Application\bin\Debug\net8.0\MimeKit.dll
+C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.Application\bin\Debug\net8.0\System.Formats.Asn1.dll

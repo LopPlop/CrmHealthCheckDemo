@@ -15,3 +15,4 @@ C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.BusinessL
 C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.BusinessLogic\obj\Debug\net8.0\ref\CRM.HealthCheck.BusinessLogic.dll
 C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.BusinessLogic\bin\Debug\net8.0\CRM.HealthCheck.BusinessLogic.runtimeconfig.json
 C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.BusinessLogic\obj\Debug\net8.0\CRM.HealthCheck.BusinessLogic.genruntimeconfig.cache
+C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.BusinessLogic\obj\Debug\net8.0\CRM.HealthCheck.BusinessLogic.sourcelink.json

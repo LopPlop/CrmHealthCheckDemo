@@ -15,3 +15,4 @@ C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.DataAcces
 C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.DataAccess\obj\Debug\net8.0\CRM.HealthCheck.DataAccess.pdb
 C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.DataAccess\obj\Debug\net8.0\CRM.HealthCheck.DataAccess.genruntimeconfig.cache
 C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.DataAccess\obj\Debug\net8.0\ref\CRM.HealthCheck.DataAccess.dll
+C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.DataAccess\obj\Debug\net8.0\CRM.HealthCheck.DataAccess.sourcelink.json

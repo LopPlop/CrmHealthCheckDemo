@@ -10,3 +10,4 @@ C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.Core\obj\
 C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.Core\obj\Debug\net8.0\refint\CRM.HealthCheck.Core.dll
 C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.Core\obj\Debug\net8.0\CRM.HealthCheck.Core.pdb
 C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.Core\obj\Debug\net8.0\ref\CRM.HealthCheck.Core.dll
+C:\Users\Bruh\source\repos\CRM.HealthCheck.Application\CRM.HealthCheck.Core\obj\Debug\net8.0\CRM.HealthCheck.Core.sourcelink.json
